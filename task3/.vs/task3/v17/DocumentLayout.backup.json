@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CAT Tasks\\Cat Task3\\task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEB5BA-B240-43CD-B5A5-6912C7A5ACEB}|task3\\task3.csproj|c:\\cat tasks\\cat task3\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEB5BA-B240-43CD-B5A5-6912C7A5ACEB}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CAT Tasks\\Cat Task3\\task3\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\CAT Tasks\\Cat Task3\\task3\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:14:44.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
